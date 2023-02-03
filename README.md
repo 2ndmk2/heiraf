@@ -12,9 +12,5 @@ For developers,
 * python setup.py develop
 *  *For conda/pip env*, go to parental directory of heiraf, and "pip install -e ./heiraf"
 
-## Test run
-Go to ipynb & tests folder
-
-
 ## Author
 Masataka Aizawa
